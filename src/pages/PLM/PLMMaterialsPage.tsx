@@ -80,8 +80,6 @@ const INITIAL_MATERIALS: Material[] = [
 
 const ITEMS_PER_PAGE = 6;
 const STATUS_FILTERS = ["All", "Active", "Inactive"];
-const TYPE_FILTERS = ["All Types", "Fabric", "Trim"];
-
 const TYPE_OPTIONS: IconSelectOption[] = [
   { value: "Fabric", label: "Fabric", icon: Layers },
   { value: "Trim", label: "Trim", icon: Tag },

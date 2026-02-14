@@ -19,7 +19,6 @@ import {
   Wallet,
   Calculator,
   TrendingUp,
-  TrendingDown,
   AlertTriangle,
   Unlock,
   ShieldCheck,

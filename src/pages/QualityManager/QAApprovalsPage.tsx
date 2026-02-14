@@ -15,7 +15,6 @@ import ConfirmationModal from "../../components/ui/ConfirmationModal";
 import Toast from "../../components/ui/Toast";
 import ProgressBar from "../../components/ui/ProgressBar";
 import SecondaryButton from "../../components/ui/SecondaryButton";
-import PrimaryButton from "../../components/ui/PrimaryButton";
 import {
   Eye,
   CheckCircle2,

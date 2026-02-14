@@ -215,7 +215,7 @@ function PLMArchivesPage() {
   // ------------------------------------------
   // HANDLERS: Restore & Delete (placeholder)
   // ------------------------------------------
-  const handleRestore = (item: unknown, label: string) => {
+  const handleRestore = (_item: unknown, label: string) => {
     setConfirmModal({
       isOpen: true,
       title: "Restore Item?",
@@ -229,7 +229,7 @@ function PLMArchivesPage() {
     });
   };
 
-  const handleDelete = (item: unknown, label: string) => {
+  const handleDelete = (_item: unknown, label: string) => {
     setConfirmModal({
       isOpen: true,
       title: "Permanently Delete?",

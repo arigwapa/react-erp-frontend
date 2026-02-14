@@ -86,7 +86,7 @@ const STATUS_OPTIONS: IconSelectOption[] = [
 
 const getPeriodLabel = (start: string, end: string): string => {
   const s = new Date(start);
-  const e = new Date(end);
+  const _e = new Date(end);
   const q = Math.floor((s.getMonth() + 1) / 3) + 1;
   const y = s.getFullYear();
   return `Q${q} ${y}`;

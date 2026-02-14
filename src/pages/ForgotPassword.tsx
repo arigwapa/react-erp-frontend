@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { ArrowLeft, Check, ShieldCheck, Mail } from "lucide-react";
+import { ArrowLeft, Check, Mail } from "lucide-react";
 import GlassAuthLayout from "../layout/GlassAuthLayout";
 import BrandLogo from "../components/ui/BrandLogo";
 

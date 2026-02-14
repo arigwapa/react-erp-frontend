@@ -24,7 +24,6 @@ import {
   Activity,
   TrendingUp,
   AlertTriangle,
-  CheckCircle2,
   Clock,
   Eye,
   Edit,

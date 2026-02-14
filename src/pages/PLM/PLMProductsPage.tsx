@@ -10,7 +10,6 @@ import { useState, useMemo, useEffect } from "react";
 import {
   Package,
   FileText,
-  AlertTriangle,
   CheckCircle,
   Eye,
   Edit,
@@ -22,7 +21,6 @@ import {
   Clock,
   Lock,
   Download,
-  ShieldCheck,
 } from "lucide-react";
 
 // ------------------------------------------
@@ -96,8 +94,6 @@ const CATEGORY_OPTIONS: IconSelectOption[] = [
 ];
 
 const STATUS_FILTERS = ["All", "Active", "Archived"];
-const CATEGORY_FILTERS = ["All Categories", "Outerwear", "Tops", "Bottoms", "Dresses", "Knitwear", "Accessories"];
-
 // ==========================================
 // MAIN COMPONENT
 // ==========================================

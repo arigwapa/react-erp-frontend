@@ -19,7 +19,6 @@ import ChecklistItem from "../../components/ui/ChecklistItem";
 import IconSelect from "../../components/ui/IconSelect";
 import {
   PackageCheck,
-  CheckCircle2,
   ShieldCheck,
   Warehouse,
   Eye,

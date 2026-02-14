@@ -14,11 +14,8 @@ import {
   History,
   CheckCircle,
   XCircle,
-  FileText,
   Download,
   Lock,
-  Calendar,
-  Layers,
   AlertTriangle,
 } from "lucide-react";
 

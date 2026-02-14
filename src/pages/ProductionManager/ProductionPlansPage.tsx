@@ -23,7 +23,6 @@ import {
   ClipboardList,
   Hammer,
   CheckCircle2,
-  XCircle,
   Plus,
   Eye,
   Edit,
